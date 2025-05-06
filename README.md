@@ -36,7 +36,7 @@ Here’s what I’m comfortable with (and always expanding!):
 
 ## 🌐 Find Me Online
 
-- [LinkedIn](www.linkedin.com/in/dimitris-chrysos-3177a618a)
+- [LinkedIn](https://www.linkedin.com/in/dimitris-chrysos-3177a618a)
 - [GitHub](https://github.com/DimitrisChrysos)
 - 📬 Email: jim.xrysos@gmail.com
 
