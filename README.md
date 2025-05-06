@@ -12,13 +12,13 @@ I'm currently pursuing a BSc in Computer Science, and I love building software t
 - 🛠️ Passionate about learning, clean code, and meaningful user experiences
 - 🌍 I enjoy working in teams and exploring nature
 
-## 🚀 Projects I'm Proud Of
+## 🚀 Some of the Projects I'm Particularly Proud Of
 
-- 🔗 [LinkedIn Clone](https://github.com/[temp-link]) — A Next.js full-stack app with authentication, Tailwind UI
-- ⚙️ [Steiner Insertion Algorithm](https://github.com/[temp-link]) — Custom C++ logic for Steiner point optimization
-- 🧪 [Unix Programming](https://github.com/[temp-link]) — Thread and semaphore-based shared memory manager in C++
-- 🐺 [WerewolvesVsVampires](https://github.com/[temp-link]) - A terminal game in C++, implemented using OOP techniques
-- 🚀 [River Raid (emulator)](https://github.com/[temp-link]) - A 2d Game developed in C, implemented using data structures. Play a demo [here](https://k08.chatzi.org/games/2022/solution/game.html)
+- 🔗 [JobFinder-LinkedIn-Clone](https://github.com/DimitrisChrysos/JobFinder-LinkedIn-Clone) — A Next.js full-stack app (Next.js, React, MongoDB, Tailwind CSS and More!)
+- ⚙️ [PSLG-Obtuse-Triangle-Minimization](https://github.com/DimitrisChrysos/PSLG-Obtuse-Triangle-Minimization-V3) — Adaptive Steiner Point Insertion for Minimization of Obtuse Triangles in PSLGS (C++, CGAL)
+- 🧪 [jobExecutorServer](https://github.com/[temp-link]) — Multithreaded Network Job Scheduler in (C, Bash Scripts)
+- 🐺 [WerewolvesVsVampires](https://github.com/DimitrisChrysos/Werewolves-vs-Vampires-Grid-Game) - A terminal game implemented using OOP techniques (C++, OOP)
+- 🚀 [River Raid (emulator)](https://github.com/[temp-link]) - A 2d Game implemented using data structures, play a demo [here](https://k08.chatzi.org/games/2022/solution/game.html) (C, Data Structures) 
 
 ## 🧑‍💻 Projects I'm Currently Working On
 
