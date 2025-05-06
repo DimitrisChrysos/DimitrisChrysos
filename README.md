@@ -17,6 +17,7 @@ I'm currently pursuing a BSc in Computer Science, and I love building software t
 - 🔗 [LinkedIn Clone](https://github.com/[temp-link]) — A Next.js full-stack app with authentication, Tailwind UI
 - 🧪 [OS Process Manager](https://github.com/[temp-link]) — Thread and semaphore-based shared memory manager in C++
 - ⚙️ [Steiner Insertion Algorithm](https://github.com/[temp-link]) — Custom C++ logic for Steiner point optimization
+- 🚀 [River Raid (emulator)](https://github.com/[temp-link]) - A 2d Game developed in C, implemented by data structures. Play a demo [here](https://k08.chatzi.org/games/2022/solution/game.html)
 
 ## 🧰 Tech Stack
 
