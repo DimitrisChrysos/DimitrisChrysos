@@ -15,9 +15,15 @@ I'm currently pursuing a BSc in Computer Science, and I love building software t
 ## 🚀 Projects I'm Proud Of
 
 - 🔗 [LinkedIn Clone](https://github.com/[temp-link]) — A Next.js full-stack app with authentication, Tailwind UI
-- 🧪 [OS Process Manager](https://github.com/[temp-link]) — Thread and semaphore-based shared memory manager in C++
 - ⚙️ [Steiner Insertion Algorithm](https://github.com/[temp-link]) — Custom C++ logic for Steiner point optimization
-- 🚀 [River Raid (emulator)](https://github.com/[temp-link]) - A 2d Game developed in C, implemented by data structures. Play a demo [here](https://k08.chatzi.org/games/2022/solution/game.html)
+- 🧪 [Unix Programming](https://github.com/[temp-link]) — Thread and semaphore-based shared memory manager in C++
+- 🐺 [WerewolvesVsVampires](https://github.com/[temp-link]) - A terminal game in C++, implemented using OOP techniques
+- 🚀 [River Raid (emulator)](https://github.com/[temp-link]) - A 2d Game developed in C, implemented using data structures. Play a demo [here](https://k08.chatzi.org/games/2022/solution/game.html)
+
+## 🧑‍💻 Projects I'm Currently Working On
+
+- 🚢 Vessel live tracking web application "seeSea" (Spring Boot, Java, Kafka, Microsoft SQL Server, React, Flyway, Docker)
+- 🧠 AI Sentiment Analysis (TFIDF, Neural Networks, Bert, and More!)
 
 ## 🧰 Tech Stack
 
