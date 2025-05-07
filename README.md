@@ -19,7 +19,7 @@ I'm currently pursuing a BSc in Computer Science, and I love building software t
 - 🛢 [Database Implementation](https://github.com/DimitrisChrysos/Database-Implementation-Using-Extendible-Hash-Table-in-C) - Database Implementation using Extendible Hash Table over a block-level storage manager (C, BF_Block)
 - 📡 [jobExecutorServer](https://github.com/DimitrisChrysos/jobExecutorServer-Multithreaded-Network-Job-Scheduler-in-C) - Multithreaded Network Job Scheduler in (C, Bash Scripts)
 - 🐺 [WerewolvesVsVampires](https://github.com/DimitrisChrysos/Werewolves-vs-Vampires-Grid-Game) - A terminal game implemented using OOP techniques (C++, OOP)
-- 🚀 [River Raid (emulator)](https://github.com/DimitrisChrysos/River-Raid-Game) - A 2d Game implemented using data structures, play a demo [here](https://k08.chatzi.org/games/2022/solution/game.html) (C, Data Structures) 
+- 🚀 [River Raid Game](https://github.com/DimitrisChrysos/River-Raid-Game) - A 2d Game implemented using data structures, play a demo [here](https://k08.chatzi.org/games/2022/solution/game.html) (C, Data Structures) 
 
 ## 🧑‍💻 Projects I'm Currently Working On
 
