@@ -25,7 +25,7 @@ I'm currently pursuing a BSc in Computer Science, and I love building software t
 
 Repositories will soon be added for the following projects!
 
-- 🚢 [seeSea](https://github.com/DimitrisChrysos/[repo-name-to-be-added]) - A Vessel live tracking full-stack web app (Spring Boot, Java, Kafka, Microsoft SQL Server, React, Flyway, Docker)
+- 🚢 [seeSea](https://github.com/DimitrisChrysos/[repo-name-to-be-added]) - A Vessel Traffic Service (VTS), full-stack web app (Spring Boot, Java, Kafka, Microsoft SQL Server, React, Flyway, Docker)
 - 🧠 [AI Sentiment Analysis](https://github.com/DimitrisChrysos/[repo-name-to-be-added]) - AI Natural Language Processing (NLP) for Sentiment Analysis (TFIDF, Neural Networks, Bert, and More!)
 
 ## 🧰 Tech Stack
