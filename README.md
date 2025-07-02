@@ -7,10 +7,14 @@ Welcome to my GitHub profile! I'm a dedicated computer science student and aspir
 I'm currently pursuing a BSc in Computer Science, and I love building software that solves real-world problems. Whether it's front-end interfaces or back-end logic, I enjoy crafting complete applications with modern tools.
 
 - 🎓 Final-year CS student with an average grade of 8.6
-- 💼 Backend Developer @ VASS
 - 🌱 Currently deepening my skills in Java, Spring Boot, Docker & SQL
 - 🛠️ Passionate about learning, clean code, and meaningful user experiences
 - 🌍 I enjoy working in teams and exploring nature
+
+## 💼 Work Experience
+
+- 🟡 Software Engineer @ EY (Jul 2025 - Present)
+- 🔵 Backend Developer @ VASS (Oct 2024 - Jun 2025)
 
 ## 🚀 Some of the Projects I'm Particularly Proud Of
 
