@@ -18,7 +18,7 @@ I'm currently pursuing a BSc in Computer Science, and I love building software t
 
 ## 🚀 Some of the Projects I'm Particularly Proud Of
 
-- 🚢 [seeSea](https://github.com/erikk03/seeSea) - A Vessel Traffic Service (VTS), full-stack web app (Spring Boot, Java, Kafka, Microsoft SQL Server, React, Flyway, Docker)
+- 🚢 [seeSea](https://github.com/erikk03/seeSea) - A Vessel Traffic Service (VTS), full-stack web app. Responsible for the backend and subsystem integration (Spring Boot, Java, Kafka, Microsoft SQL Server, React, Flyway, Docker)
 - 🔗 [JobFinder LinkedIn Clone](https://github.com/DimitrisChrysos/JobFinder-LinkedIn-Clone) - A Next.js full-stack web app (Next.js, React, MongoDB, Tailwind CSS and More!)
 - 📐 [PSLG Obtuse Triangle Minimization](https://github.com/DimitrisChrysos/PSLG-Obtuse-Triangle-Minimization-V3) - Adaptive Steiner Point Insertion for Minimization of Obtuse Triangles in PSLGS (C++, CGAL)
 - 🛢 [Database Implementation](https://github.com/DimitrisChrysos/Database-Implementation-Using-Extendible-Hash-Table-in-C) - Database Implementation using Extendible Hash Table over a block-level storage manager (C, BF_Block)
