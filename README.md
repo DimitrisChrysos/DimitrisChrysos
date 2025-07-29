@@ -1,12 +1,12 @@
 # 👋 Hey there! I'm Dimitris Chrysos!
 
-Welcome to my GitHub profile! I'm a dedicated computer science student and aspiring full-stack developer based in Athens, Greece.
+Welcome to my GitHub profile! I'm Dimitris, a Computer Science graduate based in Athens, Greece.
 
 ## 🧠 About Me
 
-I'm currently pursuing a BSc in Computer Science, and I love building software that solves real-world problems. Whether it's front-end interfaces or back-end logic, I enjoy crafting complete applications with modern tools.
+I hold a BSc in Computer Science and love building software that solves real-world problems. Whether it's front-end interfaces or back-end logic, I enjoy crafting complete applications using modern tools.
 
-- 🎓 Final-year CS student with an average grade of 8.6
+- 🎓 Computer Science graduate with an average grade of 8.68
 - 🌱 Currently deepening my skills in Java, Spring Boot, Docker & SQL
 - 🛠️ Passionate about learning, clean code, and meaningful user experiences
 - 🌍 I enjoy working in teams and exploring nature
@@ -18,7 +18,8 @@ I'm currently pursuing a BSc in Computer Science, and I love building software t
 
 ## 🚀 Some of the Projects I'm Particularly Proud Of
 
-- 🚢 [seeSea](https://github.com/erikk03/seeSea) - A Vessel Traffic Service (VTS), full-stack web app. Responsible for the backend and subsystem integration (Spring Boot, Java, Kafka, Microsoft SQL Server, React, Flyway, Docker)
+- 🚢 [seeSea](https://github.com/erikk03/seeSea) - A Vessel Traffic Services (VTS), full-stack web app. I was responsible for the backend and subsystem integration (Spring Boot, Java, Kafka, Microsoft SQL Server, React, Flyway, Docker)
+- 🧠 [AI Sentiment Analysis](https://github.com/DimitrisChrysos/AI-Sentiment-Analysis) - AI Natural Language Processing (NLP) for Sentiment Analysis (TFIDF, Neural Networks, Bert, and More!)
 - 🔗 [JobFinder LinkedIn Clone](https://github.com/DimitrisChrysos/JobFinder-LinkedIn-Clone) - A Next.js full-stack web app (Next.js, React, MongoDB, Tailwind CSS and More!)
 - 📐 [PSLG Obtuse Triangle Minimization](https://github.com/DimitrisChrysos/PSLG-Obtuse-Triangle-Minimization-V3) - Adaptive Steiner Point Insertion for Minimization of Obtuse Triangles in PSLGS (C++, CGAL)
 - 🛢 [Database Implementation](https://github.com/DimitrisChrysos/Database-Implementation-Using-Extendible-Hash-Table-in-C) - Database Implementation using Extendible Hash Table over a block-level storage manager (C, BF_Block)
@@ -26,11 +27,13 @@ I'm currently pursuing a BSc in Computer Science, and I love building software t
 - 🐺 [WerewolvesVsVampires](https://github.com/DimitrisChrysos/Werewolves-vs-Vampires-Grid-Game) - A terminal game implemented using OOP techniques (C++, OOP)
 - 🚀 [River Raid Game](https://github.com/DimitrisChrysos/River-Raid-Game) - A 2d Game implemented using data structures, play a demo [here](https://k08.chatzi.org/games/2022/solution/game.html) (C, Data Structures) 
 
+<!---
 ## 🧑‍💻 Projects I'm Currently Working On
 
 Repositories will soon be added for the following projects!
 
-- 🧠 [AI Sentiment Analysis](https://github.com/DimitrisChrysos/AI-Sentiment-Analysis) - AI Natural Language Processing (NLP) for Sentiment Analysis (TFIDF, Neural Networks, Bert, and More!)
+- 🧠 [Temp Project Name](tempProjectGithubLink) - Temp Project Short Description
+-->
 
 ## 🧰 Tech Stack
 
