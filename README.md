@@ -53,5 +53,5 @@ Here’s what I’m comfortable with (and always expanding!):
 ## 📊 GitHub Stats
 
 <div align="center">
-<img alt="Top langs" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimitrisChrysos&layout=compact&&langs_count=8"/>
+<img alt="Top langs" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimitrisChrysos&layout=compact&&langs_count=8&hide=makefile,cmake"/>
 </div>
