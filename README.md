@@ -1,13 +1,13 @@
 # 👋 Hey there! I'm Dimitris Chrysos!
 
-Welcome to my GitHub profile! I'm Dimitris, a Computer Science graduate based in Athens, Greece.
+Welcome to my GitHub profile! I'm Dimitris, a Software Engineer based in Athens, Greece.
 
 ## 🧠 About Me
 
-I hold a BSc in Computer Science and love building software that solves real-world problems. Whether it's front-end interfaces or back-end logic, I enjoy crafting complete applications using modern tools.
+I hold a BSc in Computer Science and love building software that solves real-world problems.
 
-- 🎓 Computer Science graduate with an average grade of 8.68
-- 🌱 Currently deepening my skills in Java, Spring Boot, Docker & SQL
+- 🎓 Computer Science graduate with a CGPA of 8.68/10
+- 🌱 Currently deepening my skills in Backend Technologies and AI/ML
 - 🛠️ Passionate about learning, clean code, and meaningful user experiences
 - 🌍 I enjoy working in teams and exploring nature
 
@@ -40,8 +40,8 @@ Repositories will soon be added for the following projects!
 Here’s what I’m comfortable with (and always expanding!):
 
 - **Languages**: Java, JavaScript, C++, C, SQL, Python
-- **Frameworks**: Spring Boot, React, Next.js, Node.js
-- **Tools**: Docker, Git, VS Code, IntelliJ IDEA, Postman, Flyway
+- **Frameworks**: Spring Boot, Camel, Quarkus, React, Next.js, Node.js
+- **Tools**: Docker, Git, VS Code, IntelliJ IDEA, Postman, Flyway, SoapUI
 - **Databases**: MSSQL, MySQL, MongoDB
 
 ## 🌐 Find Me Online
