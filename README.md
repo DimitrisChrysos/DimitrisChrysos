@@ -36,6 +36,13 @@ Repositories will soon be added for the following projects!
 - 🧠 [Temp Project Name](tempProjectGithubLink) - Temp Project Short Description
 -->
 
+## 🌐 Find Me Online
+
+- [LinkedIn](https://www.linkedin.com/in/dimitris-chrysos-3177a618a)
+- [GitHub](https://github.com/DimitrisChrysos)
+- Website: https://dimitris-chrysos.com/ 
+- Email: jim.xrysos@gmail.com
+
 ## 🧰 Tech Stack
 
 Here’s what I’m comfortable with (and always expanding!):
@@ -44,12 +51,6 @@ Here’s what I’m comfortable with (and always expanding!):
 - **Frameworks**: Spring Boot, Camel, Quarkus, React, Next.js, Node.js
 - **Tools**: Docker, Git, VS Code, IntelliJ IDEA, Postman, Flyway, SoapUI
 - **Databases**: MSSQL, MySQL, MongoDB
-
-## 🌐 Find Me Online
-
-- [LinkedIn](https://www.linkedin.com/in/dimitris-chrysos-3177a618a)
-- [GitHub](https://github.com/DimitrisChrysos)
-- 📬 Email: jim.xrysos@gmail.com
 
 ## 📊 GitHub Stats
 
