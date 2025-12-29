@@ -45,15 +45,9 @@ Repositories will soon be added for the following projects!
 
 ## 🧰 Tech Stack
 
-Here’s what I’m comfortable with (and always expanding!):
+Here’s what I’m comfortable with - and always expanding:
 
 - **Languages**: Java, JavaScript, C++, C, SQL, Python
 - **Frameworks**: Spring Boot, Camel, Quarkus, React, Next.js, Node.js
 - **Tools**: Docker, Git, VS Code, IntelliJ IDEA, Postman, Flyway, SoapUI
 - **Databases**: MSSQL, MySQL, MongoDB
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img alt="Top langs" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimitrisChrysos&layout=compact&&langs_count=8&hide=makefile,cmake"/>
-</div>
