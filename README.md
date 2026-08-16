@@ -1,23 +1,34 @@
-# 👋 Hey there! I'm Dimitris Chrysos!
+# Hi, I'm Dimitris 👋
 
-Welcome to my GitHub profile! I'm Dimitris, a Software Engineer based in Athens, Greece.
+**Software Engineer | MSc Student @ KTH**
 
-## 🧠 About Me
+I am a Software Engineer with a background in enterprise consulting (EY, VASS), specializing in backend development, scalable infrastructure, and distributed architectures. I am currently pursuing my MSc in Software Engineering of Distributed Systems at KTH Royal Institute of Technology in Stockholm.
 
-I hold a BSc in Computer Science and love building software that solves real-world problems.
+### 💼 Work Experience
 
-- 🎓 Computer Science graduate with a CGPA of 8.68/10
-- 🌱 Currently deepening my skills in Backend Technologies and AI/ML
-- 🛠️ Passionate about learning, clean code, and meaningful user experiences
-- 🌍 I enjoy working in teams and exploring nature
+- 🟡 Software Engineer @ EY (Jul 2025 - Aug 2026)
+- 🔵 Software Engineer @ VASS (Oct 2024 - Jun 2025)
 
-## 💼 Work Experience
+### 🎓 Education
 
-- 🟡 Software Engineer @ EY (Jul 2025 - Present)
-- 🔵 Backend Developer @ VASS (Oct 2024 - Jun 2025)
+- 🇸🇪 **MSc Software Engineering of Distributed Systems** @ KTH Royal Institute of Technology
+  - *Scholarship: Recipient of the Union of Greek Shipowners Academic Scholarship (Syn-Enosis)*
+- 🇬🇷 **BSc Informatics and Telecommunications** @ National and Kapodistrian University of Athens
+  - *Specialization: Computer Science - Data Management and Knowledge*
+  - *GPA: 8.68/10*
 
-## 🚀 Some of the Projects I'm Particularly Proud Of
+### 💻 Tech Stack
+- **Languages**: Java, TypeScript, JavaScript, SQL, Python,  C/C++
+- **Frameworks**: Spring Boot, Camel, Quarkus, Node.js, React, Next.js
+- **Tools**: Docker, Git, VS Code, IntelliJ IDEA, Postman, SoapUI, SourceTree
+- **Databases & Infrastructure**: MSSQL, Flyway, Firebase, MongoDB
 
+### 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/dimitris-chrysos-3177a618a/)
+- [Website](https://dimitris-chrysos.com/)
+- Email: jim.xrysos@gmail.com
+
+### 🚀 Past Projects
 - 🚢 [seeSea](https://github.com/erikk03/seeSea) - A Vessel Traffic Services (VTS), full-stack web app. I was responsible for the backend and subsystem integration (Spring Boot, Java, Kafka, Microsoft SQL Server, React, Flyway, Docker)
 - 🧠 [AI Sentiment Analysis](https://github.com/DimitrisChrysos/AI-Sentiment-Analysis) - AI Natural Language Processing (NLP) for Sentiment Analysis (Python, TFIDF, Neural Networks, Bert, and More!)
 - 🔗 [JobFinder LinkedIn Clone](https://github.com/DimitrisChrysos/JobFinder-LinkedIn-Clone) - A Next.js full-stack web app (Next.js, React, MongoDB, Tailwind CSS, and More!)
@@ -28,26 +39,3 @@ I hold a BSc in Computer Science and love building software that solves real-wor
 - 🐺 [WerewolvesVsVampires](https://github.com/DimitrisChrysos/Werewolves-vs-Vampires-Grid-Game) - A terminal game implemented using OOP techniques (C++, OOP)
 - 🚀 [River Raid Game](https://github.com/DimitrisChrysos/River-Raid-Game) - A 2d Game like River Raid, implemented using data structures and raylib in C. (C, raylib, Data Structures) 
 
-<!---
-## 🧑‍💻 Projects I'm Currently Working On
-
-Repositories will soon be added for the following projects!
-
-- 🧠 [Temp Project Name](tempProjectGithubLink) - Temp Project Short Description
--->
-
-## 🌐 Find Me Online
-
-- [LinkedIn](https://linkedin.com/in/dimitris-chrysos)
-- [GitHub](https://github.com/DimitrisChrysos)
-- Website: https://dimitris-chrysos.com/ 
-- Email: jim.xrysos@gmail.com
-
-## 🧰 Tech Stack
-
-Here’s what I’m comfortable with - and always expanding:
-
-- **Languages**: Java, JavaScript, C++, C, SQL, Python
-- **Frameworks**: Spring Boot, Camel, Quarkus, React, Next.js, Node.js
-- **Tools**: Docker, Git, VS Code, IntelliJ IDEA, Postman, Flyway, SoapUI
-- **Databases**: MSSQL, MySQL, MongoDB
