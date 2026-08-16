@@ -38,7 +38,7 @@ Repositories will soon be added for the following projects!
 
 ## 🌐 Find Me Online
 
-- [LinkedIn](https://www.linkedin.com/in/dimitris-chrysos-3177a618a)
+- [LinkedIn](https://linkedin.com/in/dimitris-chrysos)
 - [GitHub](https://github.com/DimitrisChrysos)
 - Website: https://dimitris-chrysos.com/ 
 - Email: jim.xrysos@gmail.com
