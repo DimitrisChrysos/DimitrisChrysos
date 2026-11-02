@@ -9,7 +9,7 @@ Software engineer pursuing an MSc in Software Engineering of Distributed Systems
 - 🔄 [Data Ingestion Framework](https://github.com/DimitrisChrysos/Data-Ingestion-Framework) - A metadata-driven data ingestion framework with medallion architecture and execution metadata tracking (Python, PySpark, Delta Lake)
 - 🚢 [seeSea](https://github.com/erikk03/seeSea) - A Vessel Traffic Services (VTS), full-stack web app. I was responsible for the backend and subsystem integration (Spring Boot, Java, Kafka, Microsoft SQL Server, React, Flyway, Docker)
 - 🧠 [AI Sentiment Analysis (NLP)](https://github.com/DimitrisChrysos/AI-Sentiment-Analysis) - Developed and evaluated sentiment classifiers (Python, TF-IDF/logistic regression, Word2Vec-based Neural Networks, BERT, DistilBERT, PyTorch, Hugging Face)
-- 📡 [jobExecutorServer](https://github.com/DimitrisChrysos/jobExecutorServer-Multithreaded-Network-Job-Scheduler-in-C) - Multithreaded Network Job Scheduler in (C, Bash Scripts)
+- 📡 [jobExecutorServer](https://github.com/DimitrisChrysos/jobExecutorServer-Multithreaded-Network-Job-Scheduler-in-C) - Multithreaded network job scheduler in (C, Bash Scripts)
 - 🛢 [Database Implementation](https://github.com/DimitrisChrysos/Database-Implementation-Using-Extendible-Hash-Table-in-C) - Database Implementation using Extendible Hash Table over a block-level storage manager (C, BF_Block)
 
 ### Experience
