@@ -36,7 +36,9 @@ Software engineer pursuing an MSc in Software Engineering of Distributed Systems
 - [Website](https://dimitris-chrysos.com/)
 - Email: jim.xrysos@gmail.com
 
-### Other Past Projects
+<details>
+<summary><strong>Other Projects</strong></summary>
+
 - 🏀 [NBA Player Archetypes](https://github.com/DimitrisChrysos/nba-player-archetypes) - NBA player clustering and archetype analysis using a medallion data pipeline (Python, PySpark, Delta Lake, Databricks)
 - 🔗 [JobFinder LinkedIn Clone](https://github.com/DimitrisChrysos/JobFinder-LinkedIn-Clone) - A Next.js full-stack web app (Next.js, React, MongoDB, Tailwind CSS, and More!)
 - 📐 [PSLG Obtuse Triangle Minimization](https://github.com/DimitrisChrysos/PSLG-Obtuse-Triangle-Minimization-V3) - Adaptive Steiner Point Insertion for Minimization of Obtuse Triangles in PSLGS (C++, CGAL)
@@ -44,3 +46,4 @@ Software engineer pursuing an MSc in Software Engineering of Distributed Systems
 - 🐺 [WerewolvesVsVampires](https://github.com/DimitrisChrysos/Werewolves-vs-Vampires-Grid-Game) - A terminal game implemented using OOP techniques (C++, OOP)
 - 🚀 [River Raid Game](https://github.com/DimitrisChrysos/River-Raid-Game) - A 2d Game like River Raid, implemented using data structures and raylib in C. (C, raylib, Data Structures) 
 
+</details>
